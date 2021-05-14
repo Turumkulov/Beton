@@ -1,0 +1,142 @@
+nav{
+    padding-top: 50px;
+}
+.navbar-number{
+    font-family: 'RocknRoll One', sans-serif;
+}
+.header{
+    background:url(../images/Rectangle\ 5\ \(1\).png);
+}
+.navbar-menu{
+    list-style-type: none;
+    justify-content: space-evenly;
+    width: 400px;
+}
+.one{
+    margin-top: 50px;
+}
+.two{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+}
+.car-circle{
+    position: absolute;
+    margin-left: 950px;
+    margin-top: 370px;
+}
+.circle{
+    border-radius: 100%;
+    background-color: #3d9be9;
+}
+.button{
+    background-color: #3d9be9;
+    height: 40px;
+    width: 200px;
+    color: white;
+    border:none;
+    
+}
+.block1{
+ background: url(../images/111.svg);
+ width: 250px;
+ height: 200px;
+ border: 1px solid #EFF5F8;
+ padding: 30px;
+}
+.block{
+    background: url(../images/111.svg);
+    width: 250px;
+    height: 200px;
+    border: 1px solid #EFF5F8;
+    padding: 30px;
+}
+.block{
+    background: url(../images/111.svg);
+    width: 250px;
+    height: 200px;  
+    border: 1px solid #EFF5F8;
+    padding: 30px;
+}
+ .block{
+    margin-right: 15px;
+} 
+.header-2{
+    height: 742px;
+    background: url(../images/Rectangle\ 6.png);
+} 
+
+.header-3{
+    display: flex;
+    justify-content: center;
+    background-image: url(../images/Rectangle\ 46.png);
+    height: 770px;
+    
+}
+.fireman{
+    position: relative;
+    display: flex;
+    width: 486px;
+    height: 560px;
+    margin-right: 300px;
+
+}
+.fireman2{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+.input1{
+    border: none;
+    border-bottom: 2px solid #333333;
+    margin-bottom: 30px;
+    width: 200px;
+    height: 50px;
+}
+.button1{
+    background-color:#3d9be9;
+}
+.dannye{
+    margin-top: 150px;
+    margin-left: 20px;
+}
+
+.pictures{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.item5{
+    margin-top: 50px;
+}
+.map{
+    background: url(../images/map.png);
+    width: 100%;
+    height: 570px;
+    background: cover;
+    margin-top: 100px;
+}
+.footer{
+    background: url(../images/footer.png);
+    height: 350px;
+}
+.footer1{
+    color: #ffffff;
+    margin-bottom: 40px;
+}
+.footer2{
+    color: #ffffff;
+}
+.footer3{
+    color: #ffffff;
+}
+.footer4{
+    color: #ffffff;
+}
+.button-footer{
+    background-color: #3d9be9;
+}
+.images-logo{ 
+    padding-bottom: 20px;
+  
+}
